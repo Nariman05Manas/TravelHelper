@@ -10,22 +10,9 @@
 		4B0548802F16BA2F0066F873 /* TravelHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4B0548BA2F16D9610066F873 /* Exceptions for "TravelHelper" folder in "TravelHelper" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 4B05487F2F16BA2F0066F873 /* TravelHelper */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4B0548822F16BA2F0066F873 /* TravelHelper */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				4B0548BA2F16D9610066F873 /* Exceptions for "TravelHelper" folder in "TravelHelper" target */,
-			);
 			path = TravelHelper;
 			sourceTree = "<group>";
 		};
